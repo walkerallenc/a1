@@ -1,0 +1,22 @@
+h_one {
+   font-family: 'Times New Roman';
+   font-size: 20px;
+   background: #ffffff;
+   color: red;
+   text-align:center;
+}
+
+h_two {
+   font-family: arial,verdana,sans-serif;
+   font-size: 20px;
+   background: #ffffff;
+   color: black;
+   text-align:center;
+}
+
+p.default1 {
+   font-family: arial,verdana,sans-serif;
+   font-size: 16px;
+   background: #ffffff;
+   color: navy;
+}

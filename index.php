@@ -20,7 +20,7 @@
 
 <div>
   <p class="default1">I am a software developer working for a telecommunications company and I live on Cape Cod, Massachusetts.<br><br>My work experience has primarily been with Microsoft technologies such as C#, VB.net, VB6 & SQL Server.  For the last few years I've been supporting a project that <br>consists heavily of Oracle development and I'm currently designing and developing a dynamic C# web application that will provide a GUI for the back end processes<br>that have been developed.<br><br>
-  I hope to to gain some knowledge from this class to compliment my work experience in the area of<br>dynamic web application development.</p>   
+  I hope to gain some knowledge from this class to compliment my work experience in the area of<br>dynamic web application development.</p>   
 </div>
 <?php
    /////////////////////////////////////////////////////////////

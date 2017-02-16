@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Assignment 1</title>
-    <link rel="stylesheet" type="text/css" href="acw.css" /> 
+    <link rel="stylesheet" type="text/css" href="/css/acw.css" /> 
 </head>
 <body>
   <div class="h_one">
